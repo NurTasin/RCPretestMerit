@@ -6,7 +6,7 @@
 
 # The Algorithm
 The algorithm sorts the result based on CGPA. If two student's CGPA is same, they are positioned based on their CGPA (Without 4th). If that matches too, they will be positioned based on their Total Marks. And if that matches too, they will be sorted by their roll (assending).
-You can take a look to [code](https://replit.com/@NurTasin/RCPRETEST) for learning more.
+You can take a look to the [code](https://replit.com/@NurTasin/RCPRETEST) for learning more.
 
 # The Compiled Merit List
 The final merit list is hosted [here](https://drive.google.com/file/d/1HoBFstU5MEh1wO-INGQdzeO0fuxQF32m/view?usp=sharing)
